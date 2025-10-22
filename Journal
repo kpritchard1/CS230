@@ -1,0 +1,28 @@
+Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
+The client, The Gaming Room, has an existing game available on Android called "Draw it or Lose it!".
+The client came to us to create a web-based version of the game. 
+
+Setting up the software design document, I listed the requirements, such as being a web-based game. In addition, the functions of the game, such as 
+It has four rounds of the game, multiple players in a team, and the image that is guessed is auto-generated. 
+In addition, I listed the design constraints in detail, such as the required language to build with. 
+
+What about the process of working through a design document did you find helpful when developing the code?
+I found describing the UML diagram and how to classes interact with each other helpful in developing the code. For example, on the diagram
+The class Entity inherited Game, Team, and Player. Knowing this, when I created the classes, I made sure to create the inheritance with those classes first. 
+In addition, from the UML I knew what to add in the classes as well, whether the classes were private or public, getters and setters, variables, and whether they
+were strings or integers. 
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+I would choose to revise the client/server requirements for the different OS systems. Specifically, for the Mobile Device operating system. 
+I would improve this by adding more information about what someone who wants to play the game on their phone would need to for the game to run smoothly 
+on their device. 
+
+How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I interpreted the user's needs by just thinking in general what is needed to run a game on the web. It needs minimum freezing, no skipping, and no crashing.
+A player shouldn't have to worry about if I play this game will my device catch a virus or will my information be exposed after I play this game.
+After this, I thought about the technical requirements behind the user needs, such as what security measures need to be in place, such as a firewall and TLS.
+
+How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I approached designing the software by first listing the requirements: what kind of application is this? From that, I went into the design and technical constraints.
+I plan to use the skills of analyzing the requirements into bigger parts of the project for future use. 
+I 
